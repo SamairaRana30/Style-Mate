@@ -1,6 +1,6 @@
 """
 Database Layer — vougeabulary
-Lead: Tanish (Backend — Database & Integration)
+Lead: janvi (Backend — Database & Integration)
 
 Handles all read/write operations for wardrobe data.
 Currently uses JSON flat-file storage (prototype).
