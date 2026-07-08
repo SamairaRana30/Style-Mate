@@ -1,0 +1,76 @@
+{
+  "rana": [
+    {
+      "id": "fit_1_1001",
+      "score": 100.0,
+      "occasion": "work",
+      "style": "minimalist",
+      "saved_at": "Jul 01, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "White Linen Shirt", "color": "white", "hex": "#FFFFFF"},
+        {"role": "Bottom",    "name": "Black Tailored Trousers", "color": "black", "hex": "#1A1A1A"},
+        {"role": "Shoes",     "name": "Brown Loafers", "color": "brown", "hex": "#8B4513"}
+      ]
+    },
+    {
+      "id": "fit_2_1002",
+      "score": 95.0,
+      "occasion": "party",
+      "style": "y2k",
+      "saved_at": "Jul 03, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "Pink Party Dress", "color": "pink", "hex": "#FFB6C1"},
+        {"role": "Shoes",     "name": "White Platform Trainers", "color": "white", "hex": "#FFFFFF"}
+      ]
+    },
+    {
+      "id": "fit_3_1003",
+      "score": 87.5,
+      "occasion": "casual",
+      "style": "streetwear",
+      "saved_at": "Jul 05, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "Lavender Oversized Tee", "color": "lavender", "hex": "#E6E6FA"},
+        {"role": "Bottom",    "name": "Blue Straight Jeans", "color": "blue", "hex": "#4169E1"},
+        {"role": "Shoes",     "name": "White Sneakers", "color": "white", "hex": "#FFFFFF"}
+      ]
+    },
+    {
+      "id": "fit_4_1004",
+      "score": 92.5,
+      "occasion": "formal",
+      "style": "formal",
+      "saved_at": "Jul 06, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "Navy Midi Dress", "color": "navy", "hex": "#1B2A4A"},
+        {"role": "Shoes",     "name": "Black Heels", "color": "black", "hex": "#1A1A1A"},
+        {"role": "Outerwear", "name": "Beige Trench Coat", "color": "beige", "hex": "#C8B89A"}
+      ]
+    },
+    {
+      "id": "fit_5_1005",
+      "score": 82.5,
+      "occasion": "casual",
+      "style": "cottagecore",
+      "saved_at": "Jul 07, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "Cream Maxi Dress", "color": "cream", "hex": "#FFF8E1"},
+        {"role": "Shoes",     "name": "Brown Loafers", "color": "brown", "hex": "#8B4513"}
+      ]
+    }
+  ],
+  "testuser": [
+    {
+      "id": "fit_1_2001",
+      "score": 100.0,
+      "occasion": "work",
+      "style": "minimalist",
+      "saved_at": "Jul 05, 2026",
+      "items": [
+        {"role": "Top/Dress", "name": "White Linen Shirt", "color": "white", "hex": "#FFFFFF"},
+        {"role": "Bottom",    "name": "Black Tailored Trousers", "color": "black", "hex": "#1A1A1A"},
+        {"role": "Shoes",     "name": "Black Heels", "color": "black", "hex": "#1A1A1A"}
+      ]
+    }
+  ]
+}
