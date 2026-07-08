@@ -4,14 +4,8 @@
     "name": "White Linen Shirt",
     "category": "top",
     "color": "white",
-    "occasions": [
-      "casual",
-      "work"
-    ],
-    "weather": [
-      "hot",
-      "warm"
-    ],
+    "occasions": ["casual", "work"],
+    "weather": ["hot", "warm"],
     "is_clean": true
   },
   {
@@ -19,249 +13,242 @@
     "name": "Black Turtleneck",
     "category": "top",
     "color": "black",
-    "occasions": [
-      "casual",
-      "formal",
-      "work"
-    ],
-    "weather": [
-      "cool",
-      "cold"
-    ],
+    "occasions": ["casual", "formal", "work"],
+    "weather": ["cool", "cold"],
     "is_clean": true
   },
   {
     "id": "item_3_navy_polo",
-    "name": "Navy Polo",
+    "name": "Navy Polo Shirt",
     "category": "top",
     "color": "navy",
-    "occasions": [
-      "casual",
-      "work"
-    ],
-    "weather": [
-      "warm",
-      "cool"
-    ],
+    "occasions": ["casual", "work"],
+    "weather": ["warm", "cool"],
     "is_clean": true
   },
   {
     "id": "item_4_pink_blouse",
-    "name": "Pink Blouse",
+    "name": "Pink Satin Blouse",
     "category": "top",
     "color": "pink",
-    "occasions": [
-      "party",
-      "casual"
-    ],
-    "weather": [
-      "warm",
-      "hot"
-    ],
+    "occasions": ["party", "casual", "work"],
+    "weather": ["warm", "hot"],
     "is_clean": true
   },
   {
-    "id": "item_5_blue_jeans",
-    "name": "Blue Jeans",
+    "id": "item_5_cream_knit",
+    "name": "Cream Knit Sweater",
+    "category": "top",
+    "color": "cream",
+    "occasions": ["casual", "work"],
+    "weather": ["cool", "cold"],
+    "is_clean": true
+  },
+  {
+    "id": "item_6_burgundy_top",
+    "name": "Burgundy Wrap Top",
+    "category": "top",
+    "color": "burgundy",
+    "occasions": ["party", "formal", "casual"],
+    "weather": ["cool", "warm"],
+    "is_clean": true
+  },
+  {
+    "id": "item_7_lavender_tshirt",
+    "name": "Lavender Oversized Tee",
+    "category": "top",
+    "color": "lavender",
+    "occasions": ["casual"],
+    "weather": ["hot", "warm"],
+    "is_clean": false
+  },
+  {
+    "id": "item_8_blue_jeans",
+    "name": "Blue Straight Jeans",
     "category": "bottom",
     "color": "blue",
-    "occasions": [
-      "casual"
-    ],
-    "weather": [
-      "warm",
-      "cool",
-      "cold"
-    ],
+    "occasions": ["casual"],
+    "weather": ["warm", "cool", "cold"]  ,
     "is_clean": true
   },
   {
-    "id": "item_6_black_trousers",
-    "name": "Black Trousers",
+    "id": "item_9_black_trousers",
+    "name": "Black Tailored Trousers",
     "category": "bottom",
     "color": "black",
-    "occasions": [
-      "formal",
-      "work"
-    ],
-    "weather": [
-      "cool",
-      "cold",
-      "warm"
-    ],
+    "occasions": ["formal", "work", "party"],
+    "weather": ["cool", "cold", "warm"],
     "is_clean": true
   },
   {
-    "id": "item_7_beige_chinos",
+    "id": "item_10_beige_chinos",
     "name": "Beige Chinos",
     "category": "bottom",
     "color": "beige",
-    "occasions": [
-      "casual",
-      "work"
-    ],
-    "weather": [
-      "warm",
-      "cool"
-    ],
+    "occasions": ["casual", "work"],
+    "weather": ["warm", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_8_red_floral_dress",
+    "id": "item_11_white_mini_skirt",
+    "name": "White Mini Skirt",
+    "category": "bottom",
+    "color": "white",
+    "occasions": ["party", "casual"],
+    "weather": ["hot", "warm"],
+    "is_clean": true
+  },
+  {
+    "id": "item_12_olive_cargo",
+    "name": "Olive Cargo Pants",
+    "category": "bottom",
+    "color": "olive",
+    "occasions": ["casual"],
+    "weather": ["warm", "cool", "cold"],
+    "is_clean": true
+  },
+  {
+    "id": "item_13_grey_pleated_skirt",
+    "name": "Grey Pleated Midi Skirt",
+    "category": "bottom",
+    "color": "grey",
+    "occasions": ["work", "formal", "casual"],
+    "weather": ["cool", "warm"],
+    "is_clean": false
+  },
+  {
+    "id": "item_14_red_floral_dress",
     "name": "Red Floral Dress",
     "category": "dress",
     "color": "red",
-    "occasions": [
-      "party",
-      "casual"
-    ],
-    "weather": [
-      "hot",
-      "warm"
-    ],
+    "occasions": ["party", "casual"],
+    "weather": ["hot", "warm"],
     "is_clean": true
   },
   {
-    "id": "item_9_navy_midi_dress",
+    "id": "item_15_navy_midi_dress",
     "name": "Navy Midi Dress",
     "category": "dress",
     "color": "navy",
-    "occasions": [
-      "formal",
-      "work"
-    ],
-    "weather": [
-      "warm",
-      "cool"
-    ],
+    "occasions": ["formal", "work"],
+    "weather": ["warm", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_10_pink_party_dress",
+    "id": "item_16_pink_party_dress",
     "name": "Pink Party Dress",
     "category": "dress",
     "color": "pink",
-    "occasions": [
-      "party"
-    ],
-    "weather": [
-      "warm",
-      "cool",
-      "rainy"
-    ],
+    "occasions": ["party"],
+    "weather": ["warm", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_11_white_sneakers",
+    "id": "item_17_black_slip_dress",
+    "name": "Black Slip Dress",
+    "category": "dress",
+    "color": "black",
+    "occasions": ["party", "formal", "casual"],
+    "weather": ["warm", "hot", "cool"],
+    "is_clean": true
+  },
+  {
+    "id": "item_18_cream_maxi_dress",
+    "name": "Cream Maxi Dress",
+    "category": "dress",
+    "color": "cream",
+    "occasions": ["casual", "party"],
+    "weather": ["hot", "warm"],
+    "is_clean": true
+  },
+  {
+    "id": "item_19_white_sneakers",
     "name": "White Sneakers",
     "category": "shoes",
     "color": "white",
-    "occasions": [
-      "casual",
-      "sport"
-    ],
-    "weather": [
-      "hot",
-      "warm",
-      "cool"
-    ],
+    "occasions": ["casual", "sport"],
+    "weather": ["hot", "warm", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_12_black_heels",
+    "id": "item_20_black_heels",
     "name": "Black Heels",
     "category": "shoes",
     "color": "black",
-    "occasions": [
-      "formal",
-      "party",
-      "work"
-    ],
-    "weather": [
-      "warm",
-      "cool"
-    ],
+    "occasions": ["formal", "party", "work"],
+    "weather": ["warm", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_13_brown_loafers",
+    "id": "item_21_brown_loafers",
     "name": "Brown Loafers",
     "category": "shoes",
     "color": "brown",
-    "occasions": [
-      "casual",
-      "work"
-    ],
-    "weather": [
-      "warm",
-      "cool",
-      "cold"
-    ],
+    "occasions": ["casual", "work"],
+    "weather": ["warm", "cool", "cold"],
     "is_clean": true
   },
   {
-    "id": "item_14_black_boots",
-    "name": "Black Boots",
+    "id": "item_22_black_ankle_boots",
+    "name": "Black Ankle Boots",
     "category": "shoes",
     "color": "black",
-    "occasions": [
-      "casual",
-      "formal",
-      "party"
-    ],
-    "weather": [
-      "cold",
-      "cool",
-      "rainy"
-    ],
+    "occasions": ["casual", "formal", "party"],
+    "weather": ["cold", "cool", "rainy"],
     "is_clean": true
   },
   {
-    "id": "item_15_black_wool_coat",
+    "id": "item_23_nude_heels",
+    "name": "Nude Block Heels",
+    "category": "shoes",
+    "color": "beige",
+    "occasions": ["formal", "party", "work"],
+    "weather": ["warm", "cool"],
+    "is_clean": true
+  },
+  {
+    "id": "item_24_white_trainers",
+    "name": "White Platform Trainers",
+    "category": "shoes",
+    "color": "white",
+    "occasions": ["casual", "party"],
+    "weather": ["warm", "hot"],
+    "is_clean": false
+  },
+  {
+    "id": "item_25_black_wool_coat",
     "name": "Black Wool Coat",
     "category": "outerwear",
     "color": "black",
-    "occasions": [
-      "formal",
-      "casual",
-      "work"
-    ],
-    "weather": [
-      "cold",
-      "cool"
-    ],
+    "occasions": ["formal", "casual", "work"],
+    "weather": ["cold", "cool"],
     "is_clean": true
   },
   {
-    "id": "item_16_beige_trench_coat",
+    "id": "item_26_beige_trench",
     "name": "Beige Trench Coat",
     "category": "outerwear",
     "color": "beige",
-    "occasions": [
-      "casual",
-      "work",
-      "party"
-    ],
-    "weather": [
-      "cool",
-      "rainy"
-    ],
+    "occasions": ["casual", "work", "party"],
+    "weather": ["cool", "rainy"],
     "is_clean": true
   },
   {
-    "id": "item_17_navy_rain_jacket",
+    "id": "item_27_navy_rain_jacket",
     "name": "Navy Rain Jacket",
     "category": "outerwear",
     "color": "navy",
-    "occasions": [
-      "casual",
-      "sport",
-      "party"
-    ],
-    "weather": [
-      "rainy",
-      "cool"
-    ],
+    "occasions": ["casual", "sport"],
+    "weather": ["rainy", "cool"],
+    "is_clean": true
+  },
+  {
+    "id": "item_28_cream_blazer",
+    "name": "Cream Oversized Blazer",
+    "category": "outerwear",
+    "color": "cream",
+    "occasions": ["work", "casual", "party"],
+    "weather": ["cool", "warm"],
     "is_clean": true
   }
 ]
